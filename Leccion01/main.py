@@ -15,4 +15,5 @@ print(z)
 # memory id
 print(id(x))
 
+entrada = input("Ingrese la data: ")
 
