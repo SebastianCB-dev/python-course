@@ -8,6 +8,7 @@ initdb --locale en_US.UTF-8 -D /var/lib/postgres/data
 
 3. Conectarse
 psql --username=freecodecamp dbname=postgres
+psql -U postgres 
 
 4. Listar bases de datos
 \l
