@@ -4,7 +4,7 @@ connection = psycopg2.connect(user="postgres",
                               password="root",
                               host="localhost", # O bien host="127.0.0.1",
                               port="5432",
-                              database="test_db");
+                              database="python_postgres");
 
 # If the connection is successful, it will print the connection object
 # else it will print the error message
