@@ -8,7 +8,7 @@ connection = psycopg2.connect(user="postgres",
 
 # If the connection is successful, it will print the connection object
 # else it will print the error message
-# print( connection ) 
+# print( connection )
 
 try:
   with connection as conn:
@@ -22,5 +22,3 @@ except(Exception) as e:
 finally:
   connection.close()
 
-
-  
