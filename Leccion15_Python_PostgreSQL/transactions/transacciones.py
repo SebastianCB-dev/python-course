@@ -17,6 +17,7 @@ try:
   sentence = 'INSERT INTO people(name, last_name, email) VALUES (%s, %s, %s)'
   values = ('Maria', 'Esparza', 'mesparza@gmail.com')
   cursor.execute(sentence, values)
+
   sentence = 'UPDATE people SET last_name = %s WHERE id = %s'
   values = ('Gonzalez', 1)
   cursor.execute(sentence, values)
