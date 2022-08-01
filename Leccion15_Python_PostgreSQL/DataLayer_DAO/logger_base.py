@@ -8,7 +8,12 @@ import logging as log
 # Critical
 
 # Minimum Level
-log.basicConfig(level=log.DEBUG)
+# Handler = Manejador
+log.basicConfig(level=log.DEBUG, 
+                format='%(asctime)s: %(levelname)s [%(filename)s:%(lineno)s] %(message)s',
+                datefmt='%I:%M:%S %p',
+                handlers=[log.FileHandler('data_layer.log', encoding='UTF-8'),
+                          log.StreamHandler()])
 
 if __name__ == '__main__':
   log.debug('Mensaje a nivel de DEBUG')

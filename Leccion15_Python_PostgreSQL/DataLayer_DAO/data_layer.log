@@ -1,0 +1,102 @@
+12:46:29 PM: DEBUG [Persona.py:53] 
+      - Person ID: 1
+      - Name: Joan,
+      - Lastname: Carrillo
+      - Email: jcarrillo@gmail.com
+    
+12:49:38 PM: DEBUG [Persona.py:53] 
+      - Person ID: None
+      - Name: Joan,
+      - Lastname: Carrillo
+      - Email: jcarrillo@gmail.com
+    
+12:51:09 PM: DEBUG [Persona.py:53] 
+      - Person ID: 1
+      - Name: Joan
+      - Lastname: Carrillo
+      - Email: jcarrillo@gmail.com
+    
+12:51:42 PM: DEBUG [Persona.py:53] 
+      - Person ID: 1
+      - Name: Joan
+      - Lastname: Carrillo
+      - Email: jcarrillo@gmail.com
+    
+12:51:44 PM: DEBUG [Persona.py:53] 
+      - Person ID: 1
+      - Name: Joan
+      - Lastname: Carrillo
+      - Email: jcarrillo@gmail.com
+    
+12:51:44 PM: DEBUG [Persona.py:58] 
+      - Person ID: 1
+      - Name: None
+      - Lastname: None
+      - Email: None
+    
+12:51:45 PM: DEBUG [Persona.py:53] 
+      - Person ID: 1
+      - Name: Joan
+      - Lastname: Carrillo
+      - Email: jcarrillo@gmail.com
+    
+12:51:45 PM: DEBUG [Persona.py:58] 
+      - Person ID: 1
+      - Name: None
+      - Lastname: None
+      - Email: None
+    
+12:51:46 PM: DEBUG [Persona.py:53] 
+      - Person ID: 1
+      - Name: Joan
+      - Lastname: Carrillo
+      - Email: jcarrillo@gmail.com
+    
+12:51:46 PM: DEBUG [Persona.py:58] 
+      - Person ID: 1
+      - Name: None
+      - Lastname: None
+      - Email: None
+    
+12:52:29 PM: DEBUG [Persona.py:54] 
+      - Person ID: 1
+      - Name: Joan
+      - Lastname: Carrillo
+      - Email: jcarrillo@gmail.com
+    
+12:52:29 PM: DEBUG [Persona.py:61] 
+      - Person ID: 1
+      - Name: None
+      - Lastname: None
+      - Email: None
+    
+12:52:44 PM: DEBUG [Persona.py:54] 
+      - Person ID: 1
+      - Name: Joan
+      - Lastname: Carrillo
+      - Email: jcarrillo@gmail.com
+    
+12:52:44 PM: DEBUG [Persona.py:62] 
+      - Person ID: 1
+      - Name: None
+      - Lastname: None
+      - Email: None
+    
+12:53:00 PM: DEBUG [Persona.py:54] 
+      - Person ID: 1
+      - Name: Joan
+      - Lastname: Carrillo
+      - Email: jcarrillo@gmail.com
+    
+12:53:00 PM: DEBUG [Persona.py:58] 
+      - Person ID: None
+      - Name: Joan
+      - Lastname: Carrillo
+      - Email: jcarrillo@gmail.com
+    
+12:53:00 PM: DEBUG [Persona.py:62] 
+      - Person ID: 1
+      - Name: None
+      - Lastname: None
+      - Email: None
+    
