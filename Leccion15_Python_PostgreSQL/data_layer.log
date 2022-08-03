@@ -3,3 +3,8 @@
 02:48:07 PM: WARNING [logger_base.py:21] Mensaje a nivel de WARNING
 02:48:07 PM: ERROR [logger_base.py:22] Mensaje a nivel de ERROR
 02:48:07 PM: CRITICAL [logger_base.py:23] Mensaje a nivel de CRITICAL
+07:31:48 PM: ERROR [conexion.py:27] Ocurrio un error creando la conexión: connection to server at "127.0.0.1", port 5432 failed: FATAL:  password authentication failed for user "postgres1"
+
+07:32:04 PM: DEBUG [conexion.py:25] Conexión con la base de datos establecida exitosamente. <connection object at 0x0000027AFCA72CE0; dsn: 'user=postgres password=xxx dbname=python_postgres host=127.0.0.1 port=5432', closed: 0>
+07:32:18 PM: DEBUG [conexion.py:25] Conexión con la base de datos establecida exitosamente. <connection object at 0x000001B7541D2CE0; dsn: 'user=postgres password=xxx dbname=python_postgres host=127.0.0.1 port=5432', closed: 0>
+07:32:18 PM: DEBUG [conexion.py:37] Cursor creado exitosamente. <cursor object at 0x000001B756020E40; closed: 0>
