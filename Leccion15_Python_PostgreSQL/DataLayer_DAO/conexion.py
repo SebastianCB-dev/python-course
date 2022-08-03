@@ -31,7 +31,7 @@ class Conexion:
   
   @classmethod
   def obtenerCursor(cls):
-    if cls._cursor is None:
+    if cls._cursor is None or cls._cursor.closed:
       try:
         cls._cursor = cls.obtenerConexion().cursor()
         log.debug(f'Cursor creado exitosamente. {cls._cursor}')
@@ -40,7 +40,6 @@ class Conexion:
         sys.exit(1)
     
     return cls._cursor
-
 
 if __name__ == '__main__':
   Conexion.obtenerConexion()

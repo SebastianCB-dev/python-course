@@ -8,3 +8,265 @@
 07:32:04 PM: DEBUG [conexion.py:25] Conexión con la base de datos establecida exitosamente. <connection object at 0x0000027AFCA72CE0; dsn: 'user=postgres password=xxx dbname=python_postgres host=127.0.0.1 port=5432', closed: 0>
 07:32:18 PM: DEBUG [conexion.py:25] Conexión con la base de datos establecida exitosamente. <connection object at 0x000001B7541D2CE0; dsn: 'user=postgres password=xxx dbname=python_postgres host=127.0.0.1 port=5432', closed: 0>
 07:32:18 PM: DEBUG [conexion.py:37] Cursor creado exitosamente. <cursor object at 0x000001B756020E40; closed: 0>
+07:47:17 PM: DEBUG [conexion.py:25] Conexión con la base de datos establecida exitosamente. <connection object at 0x000002632D9B1690; dsn: 'user=postgres password=xxx dbname=python_postgres host=127.0.0.1 port=5432', closed: 0>
+07:47:17 PM: DEBUG [conexion.py:37] Cursor creado exitosamente. <cursor object at 0x000002632E572C00; closed: 0>
+07:47:17 PM: DEBUG [persona_dao.py:31] 
+      - Person ID: 1
+      - Name: Joan Sebasti n
+      - Lastname: Carrillo Bar¢n
+      - Email: jscarrillo02@ucatolica.edu.co
+    
+07:47:17 PM: DEBUG [persona_dao.py:31] 
+      - Person ID: 2
+      - Name: Juan David
+      - Lastname: Mejia Morales
+      - Email: jdmejia94@gmail.com
+    
+07:47:17 PM: DEBUG [persona_dao.py:31] 
+      - Person ID: 3
+      - Name: Diego Alejandro
+      - Lastname: Clavijo Ladino
+      - Email: daclavijo93@gmail.com
+    
+07:47:17 PM: DEBUG [persona_dao.py:31] 
+      - Person ID: 4
+      - Name: Deiver Camilo
+      - Lastname: Mena Mosquera
+      - Email: xcamilx@gmail.com
+    
+07:47:17 PM: DEBUG [persona_dao.py:31] 
+      - Person ID: 5
+      - Name: Oscar Mauricio
+      - Lastname: Correa
+      - Email: mauroc80@gmail.com
+    
+07:47:17 PM: DEBUG [persona_dao.py:31] 
+      - Person ID: 6
+      - Name: Juan Pablo
+      - Lastname: Perez
+      - Email: jperez@gmail.com
+    
+07:51:14 PM: DEBUG [Persona.py:54] 
+      - Person ID: 1
+      - Name: Joan
+      - Lastname: Carrillo
+      - Email: jcarrillo@gmail.com
+    
+07:51:14 PM: DEBUG [Persona.py:58] 
+      - Person ID: None
+      - Name: Joan
+      - Lastname: Carrillo
+      - Email: jcarrillo@gmail.com
+    
+07:51:14 PM: DEBUG [Persona.py:62] 
+      - Person ID: 1
+      - Name: None
+      - Lastname: None
+      - Email: None
+    
+07:51:27 PM: DEBUG [conexion.py:25] Conexión con la base de datos establecida exitosamente. <connection object at 0x000001DF81961690; dsn: 'user=postgres password=xxx dbname=python_postgres host=127.0.0.1 port=5432', closed: 0>
+07:51:27 PM: DEBUG [conexion.py:37] Cursor creado exitosamente. <cursor object at 0x000001DF81F72880; closed: 0>
+07:51:27 PM: DEBUG [persona_dao.py:31] 
+      - Person ID: 1
+      - Name: Joan Sebasti n
+      - Lastname: Carrillo Bar¢n
+      - Email: jscarrillo02@ucatolica.edu.co
+    
+07:51:27 PM: DEBUG [persona_dao.py:31] 
+      - Person ID: 2
+      - Name: Juan David
+      - Lastname: Mejia Morales
+      - Email: jdmejia94@gmail.com
+    
+07:51:27 PM: DEBUG [persona_dao.py:31] 
+      - Person ID: 3
+      - Name: Diego Alejandro
+      - Lastname: Clavijo Ladino
+      - Email: daclavijo93@gmail.com
+    
+07:51:27 PM: DEBUG [persona_dao.py:31] 
+      - Person ID: 4
+      - Name: Deiver Camilo
+      - Lastname: Mena Mosquera
+      - Email: xcamilx@gmail.com
+    
+07:51:27 PM: DEBUG [persona_dao.py:31] 
+      - Person ID: 5
+      - Name: Oscar Mauricio
+      - Lastname: Correa
+      - Email: mauroc80@gmail.com
+    
+07:51:27 PM: DEBUG [persona_dao.py:31] 
+      - Person ID: 6
+      - Name: Juan Pablo
+      - Lastname: Perez
+      - Email: jperez@gmail.com
+    
+08:06:23 PM: DEBUG [conexion.py:25] Conexión con la base de datos establecida exitosamente. <connection object at 0x000001B0A60F1690; dsn: 'user=postgres password=xxx dbname=python_postgres host=127.0.0.1 port=5432', closed: 0>
+08:06:23 PM: DEBUG [conexion.py:37] Cursor creado exitosamente. <cursor object at 0x000001B0A6702880; closed: 0>
+08:06:48 PM: DEBUG [conexion.py:25] Conexión con la base de datos establecida exitosamente. <connection object at 0x0000022F61021690; dsn: 'user=postgres password=xxx dbname=python_postgres host=127.0.0.1 port=5432', closed: 0>
+08:06:48 PM: DEBUG [conexion.py:37] Cursor creado exitosamente. <cursor object at 0x0000022F619A2880; closed: 0>
+08:06:58 PM: DEBUG [conexion.py:25] Conexión con la base de datos establecida exitosamente. <connection object at 0x000002B5A4FC1690; dsn: 'user=postgres password=xxx dbname=python_postgres host=127.0.0.1 port=5432', closed: 0>
+08:06:58 PM: DEBUG [conexion.py:37] Cursor creado exitosamente. <cursor object at 0x000002B5A5942880; closed: 0>
+08:06:58 PM: DEBUG [persona_dao.py:33] Persona insertada: 
+      - Person ID: None
+      - Name: Juan
+      - Lastname: Perez
+      - Email: jperez@mail.com
+    
+08:06:58 PM: DEBUG [persona_dao.py:42] Personas insertadas: 1
+08:09:10 PM: DEBUG [conexion.py:25] Conexión con la base de datos establecida exitosamente. <connection object at 0x000001A4C60C1690; dsn: 'user=postgres password=xxx dbname=python_postgres host=127.0.0.1 port=5432', closed: 0>
+08:09:29 PM: DEBUG [conexion.py:25] Conexión con la base de datos establecida exitosamente. <connection object at 0x0000021160E81690; dsn: 'user=postgres password=xxx dbname=python_postgres host=127.0.0.1 port=5432', closed: 0>
+08:09:29 PM: DEBUG [conexion.py:37] Cursor creado exitosamente. <cursor object at 0x0000021161492880; closed: 0>
+08:09:29 PM: DEBUG [persona_dao.py:33] Persona insertada: 
+      - Person ID: None
+      - Name: Juan
+      - Lastname: Perez
+      - Email: jperez@mail.com
+    
+08:09:29 PM: DEBUG [persona_dao.py:42] Personas insertadas: 1
+08:10:58 PM: DEBUG [conexion.py:25] Conexión con la base de datos establecida exitosamente. <connection object at 0x0000013F638F1690; dsn: 'user=postgres password=xxx dbname=python_postgres host=127.0.0.1 port=5432', closed: 0>
+08:10:58 PM: DEBUG [conexion.py:37] Cursor creado exitosamente. <cursor object at 0x0000013F63F22C00; closed: 0>
+08:10:58 PM: DEBUG [persona_dao.py:33] Persona insertada: 
+      - Person ID: None
+      - Name: Juan
+      - Lastname: Perez
+      - Email: jperez@mail.com
+    
+08:10:58 PM: DEBUG [persona_dao.py:42] Personas insertadas: 1
+08:10:58 PM: DEBUG [conexion.py:37] Cursor creado exitosamente. <cursor object at 0x0000013F63F22B20; closed: 0>
+08:10:58 PM: DEBUG [persona_dao.py:46] 
+      - Person ID: 1
+      - Name: Joan Sebasti n
+      - Lastname: Carrillo Bar¢n
+      - Email: jscarrillo02@ucatolica.edu.co
+    
+08:10:58 PM: DEBUG [persona_dao.py:46] 
+      - Person ID: 2
+      - Name: Juan David
+      - Lastname: Mejia Morales
+      - Email: jdmejia94@gmail.com
+    
+08:10:58 PM: DEBUG [persona_dao.py:46] 
+      - Person ID: 3
+      - Name: Diego Alejandro
+      - Lastname: Clavijo Ladino
+      - Email: daclavijo93@gmail.com
+    
+08:10:58 PM: DEBUG [persona_dao.py:46] 
+      - Person ID: 4
+      - Name: Deiver Camilo
+      - Lastname: Mena Mosquera
+      - Email: xcamilx@gmail.com
+    
+08:10:58 PM: DEBUG [persona_dao.py:46] 
+      - Person ID: 5
+      - Name: Oscar Mauricio
+      - Lastname: Correa
+      - Email: mauroc80@gmail.com
+    
+08:10:58 PM: DEBUG [persona_dao.py:46] 
+      - Person ID: 6
+      - Name: Juan Pablo
+      - Lastname: Perez
+      - Email: jperez@gmail.com
+    
+08:10:58 PM: DEBUG [persona_dao.py:46] 
+      - Person ID: 7
+      - Name: Juan
+      - Lastname: Perez
+      - Email: jperez@mail.com
+    
+08:10:58 PM: DEBUG [persona_dao.py:46] 
+      - Person ID: 8
+      - Name: Juan
+      - Lastname: Perez
+      - Email: jperez@mail.com
+    
+08:10:58 PM: DEBUG [persona_dao.py:46] 
+      - Person ID: 9
+      - Name: Juan
+      - Lastname: Perez
+      - Email: jperez@mail.com
+    
+08:22:34 PM: DEBUG [conexion.py:25] Conexión con la base de datos establecida exitosamente. <connection object at 0x000001B5AA451690; dsn: 'user=postgres password=xxx dbname=python_postgres host=127.0.0.1 port=5432', closed: 0>
+08:22:34 PM: DEBUG [conexion.py:37] Cursor creado exitosamente. <cursor object at 0x000001B5AAA82C00; closed: 0>
+08:22:34 PM: DEBUG [persona_dao.py:42] Persona actualizada: 
+      - Person ID: 1
+      - Name: Juan Carlos
+      - Lastname: Juarez
+      - Email: jcjuarez@mail.com
+    
+08:22:34 PM: DEBUG [persona_dao.py:55] Personas actualizadas: 1
+08:22:34 PM: DEBUG [conexion.py:37] Cursor creado exitosamente. <cursor object at 0x000001B5AAA82B20; closed: 0>
+08:22:34 PM: DEBUG [persona_dao.py:60] 
+      - Person ID: 1
+      - Name: Juan Carlos
+      - Lastname: Juarez
+      - Email: jcjuarez@mail.com
+    
+08:22:34 PM: DEBUG [persona_dao.py:60] 
+      - Person ID: 2
+      - Name: Juan David
+      - Lastname: Mejia Morales
+      - Email: jdmejia94@gmail.com
+    
+08:22:34 PM: DEBUG [persona_dao.py:60] 
+      - Person ID: 3
+      - Name: Diego Alejandro
+      - Lastname: Clavijo Ladino
+      - Email: daclavijo93@gmail.com
+    
+08:22:34 PM: DEBUG [persona_dao.py:60] 
+      - Person ID: 4
+      - Name: Deiver Camilo
+      - Lastname: Mena Mosquera
+      - Email: xcamilx@gmail.com
+    
+08:22:34 PM: DEBUG [persona_dao.py:60] 
+      - Person ID: 5
+      - Name: Oscar Mauricio
+      - Lastname: Correa
+      - Email: mauroc80@gmail.com
+    
+08:22:34 PM: DEBUG [persona_dao.py:60] 
+      - Person ID: 6
+      - Name: Juan Pablo
+      - Lastname: Perez
+      - Email: jperez@gmail.com
+    
+08:27:15 PM: DEBUG [conexion.py:25] Conexión con la base de datos establecida exitosamente. <connection object at 0x00000296C5121690; dsn: 'user=postgres password=xxx dbname=python_postgres host=127.0.0.1 port=5432', closed: 0>
+08:27:15 PM: DEBUG [conexion.py:37] Cursor creado exitosamente. <cursor object at 0x00000296C5A92880; closed: 0>
+08:27:16 PM: DEBUG [persona_dao.py:51] Eliminada la persona con el ID: 1
+08:27:16 PM: DEBUG [persona_dao.py:67] Se eliminaron 1 registros
+08:27:16 PM: DEBUG [conexion.py:37] Cursor creado exitosamente. <cursor object at 0x00000296C5A927A0; closed: 0>
+08:27:16 PM: DEBUG [persona_dao.py:72] 
+      - Person ID: 2
+      - Name: Juan David
+      - Lastname: Mejia Morales
+      - Email: jdmejia94@gmail.com
+    
+08:27:16 PM: DEBUG [persona_dao.py:72] 
+      - Person ID: 3
+      - Name: Diego Alejandro
+      - Lastname: Clavijo Ladino
+      - Email: daclavijo93@gmail.com
+    
+08:27:16 PM: DEBUG [persona_dao.py:72] 
+      - Person ID: 4
+      - Name: Deiver Camilo
+      - Lastname: Mena Mosquera
+      - Email: xcamilx@gmail.com
+    
+08:27:16 PM: DEBUG [persona_dao.py:72] 
+      - Person ID: 5
+      - Name: Oscar Mauricio
+      - Lastname: Correa
+      - Email: mauroc80@gmail.com
+    
+08:27:16 PM: DEBUG [persona_dao.py:72] 
+      - Person ID: 6
+      - Name: Juan Pablo
+      - Lastname: Perez
+      - Email: jperez@gmail.com
+    
